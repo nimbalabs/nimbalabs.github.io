@@ -1,15 +1,85 @@
-{
-  "nfc": {
-      "west": ["Arizona Cardinals", "Los Angeles Rams", "San Francisco 49ers", "Seattle Seahawks"],
-      "east": ["Dallas Cowboys", "Philadelphia Eagles", "Washington Football Team", "New York Giants"],
-      "south": ["Tampa Bay Buccaneers","New Orleans Saints","Atlanta Falcons","Carolina Panthers"],
-      "north": ["Green Bay Packers", "Minnesota Vikings", "Chicago Bears", "Detroit Lions"]
-    },
-    "afc": {
-      "west": ["Kansas City Chiefs", "Los Angeles Chargers", "Las Vegas Raiders", "Denver Broncos"],
-      "east": ["New England Patriots", "Buffalo Bills", "Miami Dolphins", "New York Jets"],
-      "south": ["Tennessee Titans", "Indianapolis Colts", "Houston Texans", "Jacksonville Jaguars"],
-      "north": ["Cincinnati Bengals", "Baltimore Ravens", "Pittsburgh Steelers", "Cleveland Browns"]
-    }
-}
+[
+  {
+    "name": "nfc",
+    "divisions": [
+      {
+        "name": "west",
+        "standings" : [
+          {"name":"Arizona Cardinals"},
+          {"name":"Los Angeles Rams"},
+          {"name":"San Francisco 49ers"},
+          {"name":"Seattle Seahawks"}
+          ]
+      },
+      {
+        "name": "east",
+        "standings" : [
+          {"name":"Dallas Cowboys"},
+          {"name":"Philadelphia Eagles"},
+          {"name":"Washington Football Team"},
+          {"name":"New York Giants"}
+          ]
+      },
+      {
+        "name": "south",
+        "standings" : [
+          {"name":"Tampa Bay Buccaneers"},
+          {"name":"New Orleans Saints"},
+          {"name":"Atlanta Falcons"},
+          {"name":"Carolina Panthers"}
+          ]
+      },
+      {
+        "name": "north",
+        "standings" : [
+          {"name":"Green Bay Packers"},
+          {"name":"Minnesota Vikings"},
+          {"name":"Chicago Bears"},
+          {"name":"Detroit Lions"}
+          ]
+      }
+      ]
+  },
+  {
+    "name": "afc",
+    "divisions": [
+      {
+        "name": "west",
+        "standings" : [
+          {"name":"Kansas City Chiefs"},
+          {"name":"Los Angeles Chargers"},
+          {"name":"Las Vegas Raiders"},
+          {"name":"Denver Broncos"}
+          ]
+      },
+      {
+        "name": "east",
+        "standings" : [
+          {"name":"New England Patriots"},
+          {"name":"Buffalo Bills"},
+          {"name":"Miami Dolphins"},
+          {"name":"New York Jets"}
+          ]
+      },
+      {
+        "name": "south",
+        "standings" : [
+          {"name":"Tennessee Titans"},
+          {"name":"Indianapolis Colts"},
+          {"name":"Houston Texans"},
+          {"name":"Jacksonville Jaguars"}
+          ]
+      },
+      {
+        "name": "north",
+        "standings" : [
+          {"name":"Cincinnati Bengals"},
+          {"name":"Baltimore Ravens"},
+          {"name":"Pittsburgh Steelers"},
+          {"name":"Cleveland Browns"}
+          ]
+      }
+      ]
+  }
+]
 
