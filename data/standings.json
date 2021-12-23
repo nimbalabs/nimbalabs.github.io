@@ -5,37 +5,37 @@
       {
         "name": "west",
         "standings" : [
-          {"name":"Arizona Cardinals"},
-          {"name":"Los Angeles Rams"},
-          {"name":"San Francisco 49ers"},
-          {"name":"Seattle Seahawks"}
+          {"name":"Arizona Cardinals", "alpha":255, "red":171, "green": 29, "blue":59},
+          {"name":"Los Angeles Rams", "alpha":255, "red":228, "green": 165, "blue":41},
+          {"name":"San Francisco 49ers", "alpha":255, "red":165, "green": 0, "blue":0},
+          {"name":"Seattle Seahawks", "alpha":255, "red":5, "green": 28, "blue":62}
           ]
       },
       {
         "name": "east",
         "standings" : [
-          {"name":"Dallas Cowboys"},
-          {"name":"Philadelphia Eagles"},
-          {"name":"Washington Football Team"},
-          {"name":"New York Giants"}
+          {"name":"Dallas Cowboys", "alpha":255, "red":0, "green": 33, "blue":67},
+          {"name":"Philadelphia Eagles", "alpha":255, "red":0, "green": 76, "blue":86},
+          {"name":"Washington Football Team", "alpha":255, "red":90, "green": 20, "blue":19},
+          {"name":"New York Giants", "alpha":255, "red":0, "green": 59, "blue":122}
           ]
       },
       {
         "name": "south",
         "standings" : [
-          {"name":"Tampa Bay Buccaneers"},
-          {"name":"New Orleans Saints"},
-          {"name":"Atlanta Falcons"},
-          {"name":"Carolina Panthers"}
+          {"name":"Tampa Bay Buccaneers", "alpha":255, "red":97, "green": 16, "blue":28},
+          {"name":"New Orleans Saints", "alpha":255, "red":204, "green": 182, "blue":137},
+          {"name":"Atlanta Falcons", "alpha":255, "red":157, "green": 16, "blue":38},
+          {"name":"Carolina Panthers", "alpha":255, "red":0, "green": 147, "blue":208}
           ]
       },
       {
         "name": "north",
         "standings" : [
-          {"name":"Green Bay Packers"},
-          {"name":"Minnesota Vikings"},
-          {"name":"Chicago Bears"},
-          {"name":"Detroit Lions"}
+          {"name":"Green Bay Packers", "alpha":255, "red":31, "green": 52, "blue":47},
+          {"name":"Minnesota Vikings", "alpha":255, "red":64, "green": 42, "blue":119},
+          {"name":"Chicago Bears", "alpha":255, "red":230, "green": 115, "blue":85},
+          {"name":"Detroit Lions", "alpha":255, "red":3, "green": 127, "blue":170}
           ]
       }
       ]
@@ -46,37 +46,37 @@
       {
         "name": "west",
         "standings" : [
-          {"name":"Kansas City Chiefs"},
-          {"name":"Los Angeles Chargers"},
-          {"name":"Las Vegas Raiders"},
-          {"name":"Denver Broncos"}
+          {"name":"Kansas City Chiefs", "alpha":255, "red":220, "green": 24, "blue":52},
+          {"name":"Los Angeles Chargers", "alpha":255, "red":0, "green": 123, "blue":192},
+          {"name":"Las Vegas Raiders", "alpha":255, "red":1, "green": 1, "blue":1},
+          {"name":"Denver Broncos", "alpha":255, "red":247, "green": 76, "blue":18}
           ]
       },
       {
         "name": "east",
         "standings" : [
-          {"name":"New England Patriots"},
-          {"name":"Buffalo Bills"},
-          {"name":"Miami Dolphins"},
-          {"name":"New York Jets"}
+          {"name":"New England Patriots", "alpha":255, "red":0, "green": 33, "blue":67},
+          {"name":"Buffalo Bills", "alpha":255, "red":0, "green": 51, "blue":149},
+          {"name":"Miami Dolphins", "alpha":255, "red":0, "green": 137, "blue":145},
+          {"name":"New York Jets", "alpha":255, "red":16, "green": 84, "blue":62}
           ]
       },
       {
         "name": "south",
         "standings" : [
-          {"name":"Tennessee Titans"},
-          {"name":"Indianapolis Colts"},
-          {"name":"Houston Texans"},
-          {"name":"Jacksonville Jaguars"}
+          {"name":"Tennessee Titans", "alpha":255, "red":73, "green": 141, "blue":212},
+          {"name":"Indianapolis Colts", "alpha":255, "red":1, "green": 51, "blue":105},
+          {"name":"Houston Texans", "alpha":255, "red":3, "green": 32, "blue":46},
+          {"name":"Jacksonville Jaguars", "alpha":255, "red":0, "green": 100, "blue":116}
           ]
       },
       {
         "name": "north",
         "standings" : [
-          {"name":"Cincinnati Bengals"},
-          {"name":"Baltimore Ravens"},
-          {"name":"Pittsburgh Steelers"},
-          {"name":"Cleveland Browns"}
+          {"name":"Cincinnati Bengals", "alpha":255, "red":243, "green": 77, "blue":19},
+          {"name":"Baltimore Ravens", "alpha":255, "red":35, "green": 23, "blue":114},
+          {"name":"Pittsburgh Steelers", "alpha":255, "red":236, "green": 209, "blue":0},
+          {"name":"Cleveland Browns", "alpha":255, "red":247, "green": 59, "blue":0}
           ]
       }
       ]
