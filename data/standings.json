@@ -1,0 +1,15 @@
+{
+  "nfc": {
+      "west": ["Arizona Cardinals", "Los Angeles Rams", "San Francisco 49ers", "Seattle Seahawks"],
+      "east": ["Dallas Cowboys", "Philadelphia Eagles", "Washington Football Team", "New York Giants"],
+      "south": ["Tampa Bay Buccaneers","New Orleans Saints","Atlanta Falcons","Carolina Panthers"],
+      "north": ["Green Bay Packers", "Minnesota Vikings", "Chicago Bears", "Detroit Lions"]
+    },
+    "afc": {
+      "west": ["Kansas City Chiefs", "Los Angeles Chargers", "Las Vegas Raiders", "Denver Broncos"],
+      "east": ["New England Patriots", "Buffalo Bills", "Miami Dolphins", "New York Jets"],
+      "south": ["Tennessee Titans", "Indianapolis Colts", "Houston Texans", "Jacksonville Jaguars"],
+      "north": ["Cincinnati Bengals", "Baltimore Ravens", "Pittsburgh Steelers", "Cleveland Browns"]
+    }
+}
+
