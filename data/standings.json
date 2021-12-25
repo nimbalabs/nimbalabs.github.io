@@ -20,7 +20,7 @@
         "standings" : [
           {"name":"Dallas Cowboys", "team_name": "Cowboys", "city_name": "Dallas", "alpha":255, "red":0, "green": 33, "blue":67},
           {"name":"Philadelphia Eagles", "team_name": "Eagles", "city_name": "Philadelphia", "alpha":255, "red":0, "green": 76, "blue":86},
-          {"name":"Washington Football Team", "team_name": "Washington Football Team", "city_name": "Washington","alpha":255, "red":90, "green": 20, "blue":19},
+          {"name":"Washington Football Team", "team_name": "Washington", "city_name": "Washington","alpha":255, "red":90, "green": 20, "blue":19},
           {"name":"New York Giants", "team_name": "Giants", "city_name": "New York","alpha":255, "red":0, "green": 59, "blue":122}
           ],
           "intra_conf_division":"north",
