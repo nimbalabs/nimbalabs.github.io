@@ -5,8 +5,8 @@
       {
         "name": "west",
         "standings" : [
-          {"name":"Arizona Cardinals", "team_name": "Cardinals", "city_name": "Arizona", "alpha":255, "red":171, "green": 29, "blue":59},
           {"name":"Los Angeles Rams", "team_name": "Rams", "city_name": "Los Angeles", "alpha":255, "red":228, "green": 165, "blue":41},
+          {"name":"Arizona Cardinals", "team_name": "Cardinals", "city_name": "Arizona", "alpha":255, "red":171, "green": 29, "blue":59},
           {"name":"San Francisco 49ers", "team_name": "49ers", "city_name": "San Francisco", "alpha":255, "red":165, "green": 0, "blue":0},
           {"name":"Seattle Seahawks", "team_name": "Seahawks", "city_name": "Seattle", "alpha":255, "red":5, "green": 28, "blue":62}
           ],
@@ -31,8 +31,8 @@
         "name": "south",
         "standings" : [
           {"name":"Tampa Bay Buccaneers", "team_name": "Buccaneers", "city_name": "Tampa Bay","alpha":255, "red":97, "green": 16, "blue":28},
-          {"name":"New Orleans Saints", "team_name": "Saints", "city_name": "New Orleans","alpha":255, "red":204, "green": 182, "blue":137},
           {"name":"Atlanta Falcons", "team_name": "Falcons", "city_name": "Atlanta","alpha":255, "red":157, "green": 16, "blue":38},
+          {"name":"New Orleans Saints", "team_name": "Saints", "city_name": "New Orleans","alpha":255, "red":204, "green": 182, "blue":137},
           {"name":"Carolina Panthers", "team_name": "Panthers", "city_name": "Carolina","alpha":255, "red":0, "green": 147, "blue":208}
           ],
           "intra_conf_division":"west",
@@ -71,8 +71,8 @@
       {
         "name": "east",
         "standings" : [
-          {"name":"New England Patriots", "team_name": "Patriots", "city_name": "New England","alpha":255, "red":0, "green": 33, "blue":67},
           {"name":"Buffalo Bills", "team_name": "Bills", "city_name": "Buffalo","alpha":255, "red":0, "green": 51, "blue":149},
+          {"name":"New England Patriots", "team_name": "Patriots", "city_name": "New England","alpha":255, "red":0, "green": 33, "blue":67},
           {"name":"Miami Dolphins", "team_name": "Dolphins", "city_name": "Miami","alpha":255, "red":0, "green": 137, "blue":145},
           {"name":"New York Jets", "team_name": "Jets", "city_name": "New York","alpha":255, "red":16, "green": 84, "blue":62}
           ],
