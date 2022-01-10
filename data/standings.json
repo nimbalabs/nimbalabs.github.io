@@ -7,7 +7,7 @@
         "standings" : [
           {"name":"Los Angeles Rams", "team_name": "Rams", "city_name": "Los Angeles", "alpha":255, "red":228, "green": 165, "blue":41, "win":12, "loss":5},
           {"name":"Arizona Cardinals", "team_name": "Cardinals", "city_name": "Arizona", "alpha":255, "red":171, "green": 29, "blue":59, "win":11, "loss":6},
-          {"name":"San Francisco 49ers", "team_name": "49ers", "city_name": "San Francisco", "alpha":255, "red":165, "green": 0, "blue":0, "win":10 "loss":7},
+          {"name":"San Francisco 49ers", "team_name": "49ers", "city_name": "San Francisco", "alpha":255, "red":165, "green": 0, "blue":0, "win":10, "loss":7},
           {"name":"Seattle Seahawks", "team_name": "Seahawks", "city_name": "Seattle", "alpha":255, "red":5, "green": 28, "blue":62, "win":7, "loss":10}
           ],
           "intra_conf_division":"south",
