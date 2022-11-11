@@ -31,9 +31,9 @@
         "name": "south",
         "standings" : [
           {"name":"Tampa Bay Buccaneers", "team_name": "Buccaneers", "city_name": "Tampa Bay","alpha":255, "red":97, "green": 16, "blue":28, "win":4, "loss":5},
-          {"name":"Atlanta Falcons", "team_name": "Falcons", "city_name": "Atlanta","alpha":255, "red":157, "green": 16, "blue":38, "win":4, "loss":5},
+          {"name":"Atlanta Falcons", "team_name": "Falcons", "city_name": "Atlanta","alpha":255, "red":157, "green": 16, "blue":38, "win":4, "loss":6},
           {"name":"New Orleans Saints", "team_name": "Saints", "city_name": "New Orleans","alpha":255, "red":204, "green": 182, "blue":137, "win":3, "loss":6},
-          {"name":"Carolina Panthers", "team_name": "Panthers", "city_name": "Carolina","alpha":255, "red":0, "green": 147, "blue":208, "win":2, "loss":7}
+          {"name":"Carolina Panthers", "team_name": "Panthers", "city_name": "Carolina","alpha":255, "red":0, "green": 147, "blue":208, "win":3, "loss":7}
           ],
           "intra_conf_division":"north",
           "inter_conf_division":"south",
