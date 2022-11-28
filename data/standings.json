@@ -5,10 +5,10 @@
       {
         "name": "west",
         "standings" : [
-          {"name":"San Francisco 49ers", "team_name": "49ers", "city_name": "San Francisco", "alpha":255, "red":165, "green": 0, "blue":0, "win":6, "loss":4},
-          {"name":"Seattle Seahawks", "team_name": "Seahawks", "city_name": "Seattle", "alpha":255, "red":5, "green": 28, "blue":62, "win":6, "loss":4},
-          {"name":"Arizona Cardinals", "team_name": "Cardinals", "city_name": "Arizona", "alpha":255, "red":171, "green": 29, "blue":59, "win":4, "loss":7},
-          {"name":"Los Angeles Rams", "team_name": "Rams", "city_name": "Los Angeles", "alpha":255, "red":228, "green": 165, "blue":41, "win":3, "loss":7}
+          {"name":"San Francisco 49ers", "team_name": "49ers", "city_name": "San Francisco", "alpha":255, "red":165, "green": 0, "blue":0, "win":7, "loss":4},
+          {"name":"Seattle Seahawks", "team_name": "Seahawks", "city_name": "Seattle", "alpha":255, "red":5, "green": 28, "blue":62, "win":6, "loss":5},
+          {"name":"Arizona Cardinals", "team_name": "Cardinals", "city_name": "Arizona", "alpha":255, "red":171, "green": 29, "blue":59, "win":4, "loss":8},
+          {"name":"Los Angeles Rams", "team_name": "Rams", "city_name": "Los Angeles", "alpha":255, "red":228, "green": 165, "blue":41, "win":3, "loss":8}
           ],
           "intra_conf_division":"east",
           "inter_conf_division":"north",
@@ -32,8 +32,8 @@
         "standings" : [
           {"name":"Tampa Bay Buccaneers", "team_name": "Buccaneers", "city_name": "Tampa Bay","alpha":255, "red":97, "green": 16, "blue":28, "win":5, "loss":6},
           {"name":"Atlanta Falcons", "team_name": "Falcons", "city_name": "Atlanta","alpha":255, "red":157, "green": 16, "blue":38, "win":5, "loss":7},
-          {"name":"New Orleans Saints", "team_name": "Saints", "city_name": "New Orleans","alpha":255, "red":204, "green": 182, "blue":137, "win":4, "loss":7},
-          {"name":"Carolina Panthers", "team_name": "Panthers", "city_name": "Carolina","alpha":255, "red":0, "green": 147, "blue":208, "win":4, "loss":8}
+          {"name":"Carolina Panthers", "team_name": "Panthers", "city_name": "Carolina","alpha":255, "red":0, "green": 147, "blue":208, "win":4, "loss":8},
+          {"name":"New Orleans Saints", "team_name": "Saints", "city_name": "New Orleans","alpha":255, "red":204, "green": 182, "blue":137, "win":4, "loss":8}
           ],
           "intra_conf_division":"north",
           "inter_conf_division":"south",
@@ -59,9 +59,9 @@
       {
         "name": "west",
         "standings" : [
-          {"name":"Kansas City Chiefs", "team_name": "Chiefs", "city_name": "Kansas City","alpha":255, "red":220, "green": 24, "blue":52, "win":8, "loss":2},
-          {"name":"Los Angeles Chargers", "team_name": "Chargers", "city_name": "Los Angeles","alpha":255, "red":0, "green": 123, "blue":192, "win":5, "loss":5},
-          {"name":"Las Vegas Raiders", "team_name": "Raiders", "city_name": "Las Vegas","alpha":255, "red":1, "green": 1, "blue":1, "win":3, "loss":7},
+          {"name":"Kansas City Chiefs", "team_name": "Chiefs", "city_name": "Kansas City","alpha":255, "red":220, "green": 24, "blue":52, "win":9, "loss":2},
+          {"name":"Los Angeles Chargers", "team_name": "Chargers", "city_name": "Los Angeles","alpha":255, "red":0, "green": 123, "blue":192, "win":6, "loss":5},
+          {"name":"Las Vegas Raiders", "team_name": "Raiders", "city_name": "Las Vegas","alpha":255, "red":1, "green": 1, "blue":1, "win":4, "loss":7},
           {"name":"Denver Broncos", "team_name": "Broncos", "city_name": "Denver","alpha":255, "red":247, "green": 76, "blue":18, "win":3, "loss":8}
           ],
           "intra_conf_division":"east",
