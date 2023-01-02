@@ -5,9 +5,9 @@
       {
         "name": "west",
         "standings" : [
-          {"name":"San Francisco 49ers", "team_name": "49ers", "city_name": "San Francisco", "alpha":255, "red":165, "green": 0, "blue":0, "win":11, "loss":4},
-          {"name":"Seattle Seahawks", "team_name": "Seahawks", "city_name": "Seattle", "alpha":255, "red":5, "green": 28, "blue":62, "win":7, "loss":8},
-          {"name":"Los Angeles Rams", "team_name": "Rams", "city_name": "Los Angeles", "alpha":255, "red":228, "green": 165, "blue":41, "win":5, "loss":10},
+          {"name":"San Francisco 49ers", "team_name": "49ers", "city_name": "San Francisco", "alpha":255, "red":165, "green": 0, "blue":0, "win":12, "loss":4},
+          {"name":"Seattle Seahawks", "team_name": "Seahawks", "city_name": "Seattle", "alpha":255, "red":5, "green": 28, "blue":62, "win":8, "loss":8},
+          {"name":"Los Angeles Rams", "team_name": "Rams", "city_name": "Los Angeles", "alpha":255, "red":228, "green": 165, "blue":41, "win":5, "loss":11},
           {"name":"Arizona Cardinals", "team_name": "Cardinals", "city_name": "Arizona", "alpha":255, "red":171, "green": 29, "blue":59, "win":4, "loss":12}
           ],
           "intra_conf_division":"east",
@@ -41,9 +41,9 @@
       {
         "name": "north",
         "standings" : [
-          {"name":"Minnesota Vikings", "team_name": "Vikings", "city_name": "Minnesota","alpha":255, "red":64, "green": 42, "blue":119, "win":12, "loss":3},
+          {"name":"Minnesota Vikings", "team_name": "Vikings", "city_name": "Minnesota","alpha":255, "red":64, "green": 42, "blue":119, "win":12, "loss":4},
           {"name":"Detroit Lions", "team_name": "Lions", "city_name": "Detroit","alpha":255, "red":3, "green": 127, "blue":170, "win":8, "loss":8},
-          {"name":"Green Bay Packers", "team_name": "Packers", "city_name": "Green Bay","alpha":255, "red":31, "green": 52, "blue":47, "win":7, "loss":8},
+          {"name":"Green Bay Packers", "team_name": "Packers", "city_name": "Green Bay","alpha":255, "red":31, "green": 52, "blue":47, "win":8, "loss":8},
           {"name":"Chicago Bears", "team_name": "Bears", "city_name": "Chicago","alpha":255, "red":230, "green": 115, "blue":85, "win":3, "loss":13}
           ],
           "intra_conf_division":"south",
@@ -59,8 +59,8 @@
         "name": "west",
         "standings" : [
           {"name":"Kansas City Chiefs", "team_name": "Chiefs", "city_name": "Kansas City","alpha":255, "red":220, "green": 24, "blue":52, "win":13, "loss":3},
-          {"name":"Los Angeles Chargers", "team_name": "Chargers", "city_name": "Los Angeles","alpha":255, "red":0, "green": 123, "blue":192, "win":9, "loss":6},
-          {"name":"Las Vegas Raiders", "team_name": "Raiders", "city_name": "Las Vegas","alpha":255, "red":1, "green": 1, "blue":1, "win":6, "loss":9},
+          {"name":"Los Angeles Chargers", "team_name": "Chargers", "city_name": "Los Angeles","alpha":255, "red":0, "green": 123, "blue":192, "win":10, "loss":6},
+          {"name":"Las Vegas Raiders", "team_name": "Raiders", "city_name": "Las Vegas","alpha":255, "red":1, "green": 1, "blue":1, "win":6, "loss":10},
           {"name":"Denver Broncos", "team_name": "Broncos", "city_name": "Denver","alpha":255, "red":247, "green": 76, "blue":18, "win":4, "loss":12}
           ],
           "intra_conf_division":"east",
@@ -73,7 +73,7 @@
           {"name":"Buffalo Bills", "team_name": "Bills", "city_name": "Buffalo","alpha":255, "red":0, "green": 51, "blue":149, "win":12, "loss":3},
           {"name":"New England Patriots", "team_name": "Patriots", "city_name": "New England","alpha":255, "red":0, "green": 33, "blue":67, "win":8, "loss":8},
           {"name":"Miami Dolphins", "team_name": "Dolphins", "city_name": "Miami","alpha":255, "red":0, "green": 137, "blue":145, "win":8, "loss":8},
-          {"name":"New York Jets", "team_name": "Jets", "city_name": "New York","alpha":255, "red":16, "green": 84, "blue":62, "win":7, "loss":8}
+          {"name":"New York Jets", "team_name": "Jets", "city_name": "New York","alpha":255, "red":16, "green": 84, "blue":62, "win":7, "loss":9}
           ],
           "intra_conf_division":"west",
           "inter_conf_division":"east",
