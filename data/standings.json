@@ -6,7 +6,7 @@
         "name": "west",
         "standings" : [
           {"name":"San Francisco 49ers", "team_name": "49ers", "city_name": "San Francisco", "alpha":255, "red":165, "green": 0, "blue":0, "win":4, "loss":0},
-          {"name":"Seattle Seahawks", "team_name": "Seahawks", "city_name": "Seattle", "alpha":255, "red":5, "green": 28, "blue":62, "win":2, "loss":1},
+          {"name":"Seattle Seahawks", "team_name": "Seahawks", "city_name": "Seattle", "alpha":255, "red":5, "green": 28, "blue":62, "win":3, "loss":1},
           {"name":"Los Angeles Rams", "team_name": "Rams", "city_name": "Los Angeles", "alpha":255, "red":228, "green": 165, "blue":41, "win":2, "loss":2},
           {"name":"Arizona Cardinals", "team_name": "Cardinals", "city_name": "Arizona", "alpha":255, "red":171, "green": 29, "blue":59, "win":1, "loss":3}
           ],
@@ -20,7 +20,7 @@
           {"name":"Philadelphia Eagles", "team_name": "Eagles", "city_name": "Philadelphia", "alpha":255, "red":0, "green": 76, "blue":86, "win":4, "loss":0},
           {"name":"Dallas Cowboys", "team_name": "Cowboys", "city_name": "Dallas", "alpha":255, "red":0, "green": 33, "blue":67, "win":3, "loss":1},
           {"name":"Washington Commanders", "team_name": "Commanders", "city_name": "Washington","alpha":255, "red":90, "green": 20, "blue":19, "win":2, "loss":2},
-          {"name":"New York Giants", "team_name": "Giants", "city_name": "New York","alpha":255, "red":0, "green": 59, "blue":122, "win":1, "loss":2}
+          {"name":"New York Giants", "team_name": "Giants", "city_name": "New York","alpha":255, "red":0, "green": 59, "blue":122, "win":1, "loss":3}
           ],
           "intra_conf_division":"south",
           "inter_conf_division":"north",
@@ -58,7 +58,7 @@
       {
         "name": "west",
         "standings" : [
-          {"name":"Kansas City Chiefs", "team_name": "Chiefs", "city_name": "Kansas City","alpha":255, "red":220, "green": 24, "blue":52, "win":2, "loss":1},
+          {"name":"Kansas City Chiefs", "team_name": "Chiefs", "city_name": "Kansas City","alpha":255, "red":220, "green": 24, "blue":52, "win":3, "loss":1},
           {"name":"Los Angeles Chargers", "team_name": "Chargers", "city_name": "Los Angeles","alpha":255, "red":0, "green": 123, "blue":192, "win":2, "loss":2},
           {"name":"Las Vegas Raiders", "team_name": "Raiders", "city_name": "Las Vegas","alpha":255, "red":1, "green": 1, "blue":1, "win":1, "loss":3},
           {"name":"Denver Broncos", "team_name": "Broncos", "city_name": "Denver","alpha":255, "red":247, "green": 76, "blue":18, "win":1, "loss":3}
@@ -72,8 +72,8 @@
         "standings" : [
           {"name":"Buffalo Bills", "team_name": "Bills", "city_name": "Buffalo","alpha":255, "red":0, "green": 51, "blue":149, "win":3, "loss":1},
           {"name":"Miami Dolphins", "team_name": "Dolphins", "city_name": "Miami","alpha":255, "red":0, "green": 137, "blue":145, "win":3, "loss":1},
-          {"name":"New York Jets", "team_name": "Jets", "city_name": "New York","alpha":255, "red":16, "green": 84, "blue":62, "win":1, "loss":2},
-          {"name":"New England Patriots", "team_name": "Patriots", "city_name": "New England","alpha":255, "red":0, "green": 33, "blue":67, "win":1, "loss":3}
+          {"name":"New England Patriots", "team_name": "Patriots", "city_name": "New England","alpha":255, "red":0, "green": 33, "blue":67, "win":1, "loss":3},
+          {"name":"New York Jets", "team_name": "Jets", "city_name": "New York","alpha":255, "red":16, "green": 84, "blue":62, "win":1, "loss":3}
         ],
           "intra_conf_division":"south",
           "inter_conf_division":"west",
