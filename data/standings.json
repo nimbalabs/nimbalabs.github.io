@@ -58,9 +58,9 @@
       {
         "name": "west",
         "standings" : [
-          {"name":"Kansas City Chiefs", "team_name": "Chiefs", "city_name": "Kansas City","alpha":255, "red":220, "green": 24, "blue":52, "win":9, "loss":5},
-          {"name":"Denver Broncos", "team_name": "Broncos", "city_name": "Denver","alpha":255, "red":247, "green": 76, "blue":18, "win":7, "loss":7},
-          {"name":"Las Vegas Raiders", "team_name": "Raiders", "city_name": "Las Vegas","alpha":255, "red":1, "green": 1, "blue":1, "win":6, "loss":8},
+          {"name":"Kansas City Chiefs", "team_name": "Chiefs", "city_name": "Kansas City","alpha":255, "red":220, "green": 24, "blue":52, "win":9, "loss":6},
+          {"name":"Las Vegas Raiders", "team_name": "Raiders", "city_name": "Las Vegas","alpha":255, "red":1, "green": 1, "blue":1, "win":7, "loss":8},
+          {"name":"Denver Broncos", "team_name": "Broncos", "city_name": "Denver","alpha":255, "red":247, "green": 76, "blue":18, "win":7, "loss":8},
           {"name":"Los Angeles Chargers", "team_name": "Chargers", "city_name": "Los Angeles","alpha":255, "red":0, "green": 123, "blue":192, "win":5, "loss":10}
         ],
           "intra_conf_division":"north",
@@ -73,7 +73,7 @@
           {"name":"Miami Dolphins", "team_name": "Dolphins", "city_name": "Miami","alpha":255, "red":0, "green": 137, "blue":145, "win":11, "loss":4},
           {"name":"Buffalo Bills", "team_name": "Bills", "city_name": "Buffalo","alpha":255, "red":0, "green": 51, "blue":149, "win":9, "loss":6},
           {"name":"New York Jets", "team_name": "Jets", "city_name": "New York","alpha":255, "red":16, "green": 84, "blue":62, "win":6, "loss":9},
-          {"name":"New England Patriots", "team_name": "Patriots", "city_name": "New England","alpha":255, "red":0, "green": 33, "blue":67, "win":3, "loss":11}
+          {"name":"New England Patriots", "team_name": "Patriots", "city_name": "New England","alpha":255, "red":0, "green": 33, "blue":67, "win":4, "loss":11}
         ],
           "intra_conf_division":"south",
           "inter_conf_division":"west",
